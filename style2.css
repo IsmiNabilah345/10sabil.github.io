@@ -1,0 +1,7 @@
+body{
+    background-color: #55679C;
+}
+section{
+    justify-content: center;
+    display: flex;
+}
