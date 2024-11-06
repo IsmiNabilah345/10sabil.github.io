@@ -1,7 +1,18 @@
-body{
+body {
     background-color: #55679C;
 }
-section{
+
+section {
     justify-content: center;
     display: flex;
+    margin-top: 8rem;
+}
+
+.card-body {
+    padding: 1rem;
+}
+
+.card {
+    max-width: 25rem;
+    max-height: 27rem;
 }
