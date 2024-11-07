@@ -17,9 +17,13 @@ nav {
     color: #1E2A5E;
 }
 
+.img-fluid {
+    max-width: 25%;
+}
+
 .section,
 .home {
-    margin-top: 5rem;
+    margin-top: 3rem;
 }
 
 .section,
@@ -46,4 +50,4 @@ span {
     font-size: 16px;
     /* margin: 3px 2px; */
     cursor: none;
-}   
+}
