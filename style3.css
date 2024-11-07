@@ -9,6 +9,14 @@ nav {
     background-color: #55679C;
 }
 
+.nav-link {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
+
 .isi {
     /* margin-top: 1rem; */
     color: white;
@@ -16,12 +24,4 @@ nav {
 
 h3 {
     font-weight: 700;
-}
-
-.nav-link {
-    color: white;
-}
-
-.navbar-brand {
-    color: white;
 }
