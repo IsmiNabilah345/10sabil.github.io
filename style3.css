@@ -17,6 +17,10 @@ nav {
     color: white;
 }
 
+.img-fluid {
+    max-width: 25%;
+}
+
 .isi {
     /* margin-top: 1rem; */
     color: white;
