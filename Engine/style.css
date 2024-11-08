@@ -21,6 +21,10 @@ nav {
     max-width: 25%;
 }
 
+.rounded {
+    max-width: 23rem;
+}
+
 .section,
 .home {
     margin-top: 3rem;
