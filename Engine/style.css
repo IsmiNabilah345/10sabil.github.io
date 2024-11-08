@@ -1,5 +1,5 @@
 body {
-    background: #eeee;
+    background: #F5F5F5;
     min-height: 2000px;
 }
 
@@ -32,7 +32,9 @@ nav {
 
 .section,
 .isi {
-    margin-top: 9rem;
+    background-color: #1E2A5E;
+    min-height: 800px;
+    color: white;
 }
 
 .h1,
