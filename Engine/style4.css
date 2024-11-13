@@ -1,5 +1,5 @@
 body {
-    background-color: #6c63ff;
+    background-color: #7C93C3;
     color: #ffffff;
     font-family: Arial, sans-serif;
 }
@@ -26,7 +26,7 @@ nav {
     /* margin-top: 1rem; */
     font-size: large;
     font-weight: 500;
-    background-color:  transparent;
+    background-color: transparent;
 }
 
 .nav-link {
@@ -50,7 +50,7 @@ p {
     background-color: #ffffff;
     border-radius: 8px;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .container-fluid {
@@ -79,4 +79,15 @@ p {
 
 .img-fluid {
     max-width: 25%;
+}
+
+footer {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    margin-top: 30vmax;
 }

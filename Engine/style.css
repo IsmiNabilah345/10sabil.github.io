@@ -43,6 +43,16 @@ h1 {
 }
 
 span {
+    background-color: #1E2A5E;
+    color: white;
+}
+
+h2 {
+    font-weight: 700;
+    margin-bottom: 10rem;
+}
+
+.isidua {
     color: #1E2A5E;
 }
 
@@ -58,6 +68,11 @@ span {
     cursor: none;
 }
 
+.img-fluidd {
+    max-width: 100%;
+    border-radius: 1rem;
+}
+
 footer {
     height: 50px;
     display: flex;
@@ -66,5 +81,5 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    margin-top: 100vmax;
+    margin-top: 50vmax;
 }
