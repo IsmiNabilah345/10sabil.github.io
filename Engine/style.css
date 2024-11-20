@@ -1,6 +1,6 @@
 body {
     background: #F5F5F5;
-    min-height: 2000px;
+    min-height: 1000px;
 }
 
 nav {
@@ -42,7 +42,7 @@ h1 {
     font-weight: 700;
 }
 
-span {
+.sspan {
     background-color: #1E2A5E;
     color: white;
 }
@@ -73,6 +73,18 @@ h2 {
     border-radius: 1rem;
 }
 
+.isiempat {
+    background-color: #55679C;
+    color: white;
+    min-height: 25rem;
+    margin-top: 5rem;
+}
+
+.iisi {
+    color: white;
+    text-decoration: none;
+}
+
 footer {
     height: 50px;
     display: flex;
@@ -81,5 +93,5 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    margin-top: 50vmax;
+    margin-top: 0vmax;
 }
