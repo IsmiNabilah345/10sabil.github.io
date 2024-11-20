@@ -103,11 +103,11 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    margin-top: 30vmax;
+    margin-top: 20vmax;
 }
 
 .float {
-    width: 300px;
+    max-width: fit-content;
     margin-left: 40px;
     float: right;
 }
@@ -132,9 +132,9 @@ footer {
     }
 
     .float {
-       float: none;
-       max-width: 80%;
-       padding: 10px 0;
+        float: none;
+        max-width: 80%;
+        padding: 10px 0;
     }
 }
 
@@ -158,4 +158,25 @@ footer {
     .form-control {
         font-size: 0.9;
     }
+}
+
+.judul {
+    background-color: #1E2A5E;
+}
+
+#issi {
+    background-color: #1E2A5E;
+    max-width: fit-content;
+}
+
+#isidua {
+    margin-top: 9rem;
+}
+
+.nav-link {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
 }

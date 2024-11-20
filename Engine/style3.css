@@ -7,7 +7,7 @@ nav {
     /* margin-top: 1rem; */
     font-size: large;
     font-weight: 500;
-    background-color: #55679C;
+    /* background-color: #55679C; */
 }
 
 .nav-link {
@@ -23,20 +23,21 @@ nav {
 }
 
 .isi {
-    /* margin-top: 1rem; */
+    margin-top: 8rem;
     color: white;
 }
 
 h3 {
     font-weight: 700;
+    color: #1E2A5E;
 }
 
 .isidua {
-    margin-top: 15rem;
+    margin-top: 10rem;
 }
 
 .img-fluidd {
-    max-width: fit-content;
+    max-width: 100%;
     border-radius: 1rem;
 }
 
@@ -46,12 +47,23 @@ span {
 }
 
 .isitiga {
-    margin-top: 15rem;
+    margin-top: 13rem;
 }
 
 .img-fluiddd {
     max-width: 100%;
     border-radius: 1rem;
+}
+
+.isiempat {
+    background-color: #55679C;
+    min-height: 25rem;
+    margin-top: 5rem;
+}
+
+.iisi {
+    color: white;
+    text-decoration: none;
 }
 
 footer {
@@ -62,5 +74,5 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    margin-top: 30vmax;
+    /* margin-top: 25vmax; */
 }
