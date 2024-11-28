@@ -108,8 +108,10 @@ footer {
 
 .poster1 {
     max-width: fit-content;
-    margin-left: 40px;
+    margin-right: 40px;
     float: right;
+    width: 400px;
+    height: auto;
 }
 
 @media (max-width: 768px) {
