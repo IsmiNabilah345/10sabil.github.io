@@ -133,9 +133,10 @@ footer {
     }
 
     .poster1 {
-        float: none;
+        float: center;
         max-width: 80%;
         padding: 10px 0;
+        margin-bottom: 20px;
     }
 }
 
